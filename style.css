@@ -9,7 +9,7 @@ body {
     line-height: 1.6;
 }
 .promo {
-    background-image: url('zov.jpg'); /* Замените на путь к вашей фотографии */
+    background-image: url('photo.jpg'); /* Замените на путь к вашей фотографии */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
